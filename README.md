@@ -67,13 +67,9 @@ class Aishwary:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <h3>📊 GitHub Statistics</h3>
-  <p>
-    <img src="https://img.shields.io/github/stars/Aishwary0212?style=flat-square&label=Stars&color=yellow" alt="Stars" />
-    <img src="https://img.shields.io/github/followers/Aishwary0212?style=flat-square&label=Followers&color=blue" alt="Followers" />
-  </p>
+  <img src="https://img.shields.io/github/stars/Aishwary0212?style=flat-square&label=Stars&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Aishwary0212?style=flat-square&label=Followers&color=blue" alt="Followers" />
   <p><strong>87 contributions in the last year</strong></p>
-</div>Languages" />
 </div>
 
 ---
@@ -82,27 +78,41 @@ class Aishwary:
 
 <div align="center">
 
-### 🧮 [Calculator First](https://github.com/Aishwary0212/calculator_first)
-**HTML | CSS | JavaScript**
+### 📋 [Task Manager](https://github.com/Aishwary0212/task-manager-frontend)
+**Frontend: JavaScript | HTML/CSS | Backend: JavaScript**
 
-A beautiful, fully functional calculator with an intuitive interface. Features include:
-- ✨ Clean UI Design
-- 🔢 All Basic Operations
-- 🎨 Responsive Layout
+A complete task management application with full-stack architecture featuring:
+- 📝 Create, Read, Update, Delete (CRUD) operations
+- 🔐 User authentication system
+- 💾 Persistent data storage
+- 🎨 Responsive and intuitive UI
 
-[View Project →](https://github.com/Aishwary0212/calculator_first) | [Live Demo →](#)
+[View Frontend →](https://github.com/Aishwary0212/task-manager-frontend) | [View Backend →](https://github.com/Aishwary0212/task-manager-backend)
+
+---
+
+### 🗺️ [Van-Amriti Portal Atlas](https://github.com/Aishwary0212/Van-Amriti-Portal-Atlas)
+**HTML | AI-powered FRA Atlas**
+
+An AI-powered FRA Atlas and Web GIS-based Decision Support platform that:
+- 🤖 Provides AI-powered geographical analysis
+- 🗺️ Maps village assets from satellite imagery
+- 📊 Guides scheme decisions for FRA records
+- 🌍 Digitizes legacy FRA data
+
+[View Project →](https://github.com/Aishwary0212/Van-Amriti-Portal-Atlas)
 
 ---
 
 ### 🔐 [Auth System](https://github.com/Aishwary0212/auth)
 **JavaScript | Authentication**
 
-A complete authentication system implementation:
+A secure authentication system implementation:
 - 🔐 Secure Login/Registration
 - 💾 Data Persistence
 - 🎯 User Session Management
 
-[View Project →](https://github.com/Aishwary0212/auth) | [Live Demo →](#)
+[View Project →](https://github.com/Aishwary0212/auth)
 
 </div>
 

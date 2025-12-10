@@ -67,8 +67,13 @@ class Aishwary:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aishwary0212&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwary0212&layout=compact&theme=dark" alt="Top Languages" />
+  <h3>📊 GitHub Statistics</h3>
+  <p>
+    <img src="https://img.shields.io/github/stars/Aishwary0212?style=flat-square&label=Stars&color=yellow" alt="Stars" />
+    <img src="https://img.shields.io/github/followers/Aishwary0212?style=flat-square&label=Followers&color=blue" alt="Followers" />
+  </p>
+  <p><strong>87 contributions in the last year</strong></p>
+</div>Languages" />
 </div>
 
 ---
